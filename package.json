@@ -1,5 +1,5 @@
 {
-  "name": "kb-react-ui-components",
+  "name": "@SwitchSoftware/kb-react-ui-components",
   "version": "1.0.0",
   "description": "Switch Software Generic React UI Components",
   "author": "frey-sw",
@@ -56,6 +56,9 @@
     "dist"
   ],
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.30",
+    "@fortawesome/free-solid-svg-icons": "^5.14.0",
+    "@fortawesome/react-fontawesome": "^0.1.11",
     "node-sass": "^4.14.1"
   }
 }
